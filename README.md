@@ -5,5 +5,5 @@ Original wiring and information about the control and methodoloy can be found he
 
 Schematics have been built using KiCAD 9.0 adding specifc component specifcations into the schematics for clairity and ease of use. 
 
-The design also incorparates the use of a relay interface to fit an ISO Micro relay in the form of a V23333-Z0002-B049 
+The design also incorparates the use of a relay interface to fit an ISO Micro relay
 ![image](https://github.com/user-attachments/assets/c763a06d-c967-496c-a41b-d13cc0b5d70a)
