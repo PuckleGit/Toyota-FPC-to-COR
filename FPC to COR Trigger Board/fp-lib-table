@@ -1,4 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "TE_CONNECTIVITY")(type "KiCad")(uri "${KIPRJMOD}/TE_CONNECTIVITY.pretty")(options "")(descr ""))
-)
